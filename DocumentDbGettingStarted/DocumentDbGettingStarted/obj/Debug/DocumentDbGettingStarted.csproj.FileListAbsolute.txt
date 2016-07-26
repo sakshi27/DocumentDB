@@ -1,0 +1,13 @@
+c:\users\sakshia\documents\visual studio 2015\Projects\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\DocumentDbGettingStarted.exe.config
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\DocumentDbGettingStarted.exe.config
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\DocumentDbGettingStarted.exe
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\DocumentDbGettingStarted.pdb
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\obj\Debug\DocumentDbGettingStarted.csprojResolveAssemblyReference.cache
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\obj\Debug\DocumentDbGettingStarted.exe
+C:\Users\sakshia\Source\Repos\DocumentDB\DocumentDbGettingStarted\DocumentDbGettingStarted\obj\Debug\DocumentDbGettingStarted.pdb
